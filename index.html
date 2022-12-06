@@ -62,7 +62,7 @@
                     </ul>
                 </section>
                 <section class="about-me">
-                    <h2 class="about-me__title">About me</h2>
+                    <h2 class="about-me__title section-title">About me</h2>
                     <p class="about-me__body">
                         I started learning programming at the end of 2021 by myself.
                         After learning basics of Python and JavaScript, I decided to enter the university.
@@ -72,7 +72,7 @@
                     </p>
                 </section>
                 <section class="skills">
-                    <h2 class="skills__title">Skills</h2>
+                    <h2 class="skills__title section-title">Skills</h2>
                     <ul class="skills__list">
                         <li class="skills__item">HTML5</li>
                         <li class="skills__item">CSS3</li>
@@ -87,6 +87,33 @@
                         <li class="skills__item">Git</li>
                         <li class="skills__item">Figma</li>
                     </ul>
+                </section>
+                <section class="code-example">
+                    <h2 class="code-example__title section-title">Code Example</h2>
+                    <pre>
+                        <code>
+// Flatten an array
+
+const x = [
+    1, 2, [3, [4, 5 , [6, 7], 8]], [9]
+];
+
+function flatten(arr) {
+    const result = [];
+    arr.forEach(el => {
+        if(Array.isArray(el)) {
+            result.push(...flatten(el));
+        } else {
+            result.push(el);
+        }
+    })
+    return result;
+}
+
+console.log(flatten(x));
+// outupu: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+                        </code>
+                    </pre>
                 </section>
             </div>
         </main>

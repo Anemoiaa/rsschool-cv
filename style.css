@@ -94,6 +94,11 @@ body {
     border-radius: 15px;
 }
 
+.section-title {
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 4px solid #4B6A9B;
+}
 
 .name-and-position {
     display: flex;
@@ -155,11 +160,7 @@ body {
     margin-top: 48px;
 }
 
-.about-me__title {
-    font-size: 24px;
-    font-weight: bold;
-    border-bottom: 4px solid #4B6A9B;
-}
+.about-me__title {}
 
 .about-me__body {
     margin-top: 24px;
@@ -169,11 +170,7 @@ body {
     margin-top: 48px;
 }
 
-.skills__title {
-    font-size: 24px;
-    font-weight: bold;
-    border-bottom: 4px solid #4B6A9B;
-}
+.skills__title {}
 
 .skills__list {
     max-width: 600px;
@@ -189,5 +186,18 @@ body {
     padding: 8px 16px;
     background-color: #4B6A9B;
     border-radius: 5px;
+    color: #fff;
+}
+
+.code-example {
+    margin-top: 88px;
+}
+
+.code-example__title {}
+
+.code-example pre {
+    margin-top: 12px;
+    padding: 24px 24px;
+    background-color: rgb(20 29 47);
     color: #fff;
 }
