@@ -44,6 +44,7 @@ body {
     font-weight: 400;
     line-height: 1.48;
     color: rgb(43 52 66);
+    background-color:  rgb(246 248 255);
 }
 
 
@@ -51,5 +52,44 @@ body {
     height: 100%;
     width: 100%;
     max-width: 900px;
+    margin: 0 auto;
     padding: 0 24px;
+}
+
+.header {
+    margin-top: 35px;
+    padding: 16px 24px;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.header__menu {
+
+}
+
+.menu__list {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu__item {
+    margin-left: 24px;
+}
+
+.menu__item:hover {
+    transform: scale(1.1);
+    transition: 200ms linear;
+}
+
+.menu__link {
+    font-weight: bold;
+    color: rgb(75 106 155);
+}
+
+
+.main {
+    margin-top: 35px;
+    padding: 16px 24px;
+    background-color: #fff;
+    border-radius: 15px;
 }
