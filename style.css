@@ -104,12 +104,12 @@ body {
 
 .name-and-position__title {
     margin-left: 48px;
-    font-size: 24px;
+    font-size: 32px;
     font-weight: bold;
 }
 
 .name-and-position__title h2 {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
 }
 
@@ -131,6 +131,7 @@ body {
 }
 
 .contacts-list__item {
+    margin-top: 8px;
     display: flex;
     align-items: center;
     gap: 12px;
@@ -143,4 +144,18 @@ body {
 
 .contacts-list__link:hover {
     text-decoration: underline;
+}
+
+.about-me {
+    margin-top: 48px;
+}
+
+.about-me__title {
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 4px solid #4B6A9B;
+}
+
+.about-me__body {
+    margin-top: 24px;
 }
