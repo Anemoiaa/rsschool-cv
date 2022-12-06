@@ -1,4 +1,4 @@
-# Gerogiy Petrov 
+# Gerogiy Petrov
 ## Junior Software Engineer
 \
 **Contact Information:**
@@ -8,8 +8,13 @@ Email: georgiypetroff@gmail.com
 GitHub: [@anemoiaa](https://github.com/anemoiaa/)  
 LinkedIn: [Link](https://www.linkedin.com/in/georgiy-petrov-74669b238/)  
 
+**About me**  
+I started learning programming at the end of 2021 by myself.
+After learning basics of Python and JavaScript, I decided to enter the university. This is my second year at Georgian Technical University withmajors in 'Software Engineering'. This summer I took part and successfully finished 'PHP-Bootcamp' and after recieved a job as Junior Drupal Developer.
+I continue to self-study. Now I study Node.js, React.js, Next.js in my free time.  
+
 **Skills:**
-+ HTML5, CSS3, 
++ HTML5, CSS3,
 + JavaScript, React, React Router
 + TailwindCSS, Styled Components
 + PHP, Drupal
@@ -26,7 +31,7 @@ const x = [
 ];
 
 function flatten(arr) {
-    const result = []; 
+    const result = [];
     arr.forEach(el => {
         if(Array.isArray(el)) {
             result.push(...flatten(el));
@@ -45,33 +50,35 @@ console.log(flatten(x));
 
 **Experience:**
 
-***Tip Calculatorr App***    
+***Tip Calculatorr App***  
 Stack: React  
 [Source](https://github.com/Anemoiaa/tip-calculator-app)  
-[Live](https://anemoiaa.github.io/tip-calculator-app)
+[Live](https://anemoiaa.github.io/tip-calculator-app)  
 
 ***Todo App***  
 Stack: React, Styled Components  
 [Source](https://github.com/Anemoiaa/todo-app/)  
-[Live](https://anemoiaa.github.io/todo-app/)
+[Live](https://anemoiaa.github.io/todo-app/)  
 
 ***GitHub User Search App***  
-Stack: React, Axios, Styled Components  
+Stack: React, Axios, TailwindCSS   
 [Source](https://github.com/Anemoiaa/github-user-search-app/)  
-[Live](https://anemoiaa.github.io/github-user-search-app/)
+[Live](https://anemoiaa.github.io/github-user-search-app/)  
 
 ***GitHub User Search App***  
 Stack: PhP, HTML5, CSS3, JavaScript  
 [Source](https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2)  
 [Live](https://bitoid-week1-ch2.herokuapp.com/)  
 
-**Education**  
+***  
+
+**Education**
 > 2021-present
 
-**Georgian Technical University**  
+**Georgian Technical University**
 B.Sc. “Software Engineering”
 
-**Languages:**   
-+ English - B2   
-+ Russian - Native  
+**Languages:**
++ English - B2
++ Russian - Native
 + Georgian - Native
