@@ -196,8 +196,80 @@ body {
 .code-example__title {}
 
 .code-example pre {
-    margin-top: 12px;
+    margin-top: 24px;
     padding: 24px 24px;
     background-color: rgb(20 29 47);
     color: #fff;
+}
+
+.exp {
+    margin-top: 48px;
+}
+
+.exp__list {
+    margin-top: 24px;
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 68px
+}
+
+.exp__item {
+    max-height: 200px;
+    padding-right: 12px;
+    box-shadow: 0px 16px 30px -10px rgba(70,96,187,.199);
+}
+
+.exp__item:nth-child(even) {
+    place-self: self-end;
+}
+
+.item-exp__body {
+    display: flex;
+    gap: 24px;
+}
+
+.item-exp__image {
+    width: 300px;
+    height: 200px;
+}
+
+.item-exp__content {
+    padding: 12px;
+}
+
+.item-exp__title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.item-exp__list {
+    margin-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.item-exp__item {
+    padding: 4px 8px;
+    background-color: #4B6A9B;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.item-exp__links {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-exp__link {
+    font-weight: bold;
+    color: #4B6A9B;
+}
+
+.item-exp__link:hover {
+    transform: translateX(5px);
+    transition: 200ms linear;
 }
