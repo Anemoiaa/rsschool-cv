@@ -207,7 +207,6 @@ body {
 
 .exp__list {
     margin-top: 24px;
-    margin-bottom: 48px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -271,4 +270,24 @@ body {
 .item-exp__link:hover {
     transform: translateX(5px);
     transition: 200ms linear;
+}
+
+.education {
+    margin-top: 48px;
+}
+
+.education__list {
+    margin-top: 24px;
+    padding-right: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.education__item {
+    border-bottom: 1px solid rgb(43 52 66);
+    font-weight: bold;
+}
+
+.item-education__period {
+    font-weight: 400;
 }
