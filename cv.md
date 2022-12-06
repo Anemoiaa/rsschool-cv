@@ -8,18 +8,18 @@ Email: georgiypetroff@gmail.com
 GitHub: [@anemoiaa](https://github.com/anemoiaa/)  
 LinkedIn: [Link](https://www.linkedin.com/in/georgiy-petrov-74669b238/)  
 
+**About me**  
+I started learning programming at the end of 2021 by myself.
+After learning basics of Python and JavaScript, I decided to enter the university. This is my second year at Georgian Technical University withmajors in 'Software Engineering'. This summer I took part and successfully finished 'PHP-Bootcamp' and after recieved a job as Junior Drupal Developer.
+I continue to self-study. Now I study Node.js, React.js, Next.js in my free time.  
+
 **Skills:**
 + HTML5, CSS3,
 + JavaScript, React, React Router
 + TailwindCSS, Styled Components
 + PHP, Drupal
 + Docker
-+ Git
-
-**About me**  
-I started learning programming at the end of 2021 by myself.
-After learning basics of Python and JavaScript, I decided to enter the university. This is my second year at Georgian Technical University withmajors in 'Software Engineering'. This summer I took part and successfully finished 'PHP-Bootcamp' and after recieved a job as Junior Drupal Developer.
-I continue to self-study. Now I study Node.js, React.js, Next.js in my free time.
++ Git  
 
 **Code Example:**
 
