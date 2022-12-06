@@ -3,10 +3,10 @@
 \
 **Contact Information:**
 
-Phone: +000-000-000
-Email: georgiypetroff@gmail.com
-GitHub: [@anemoiaa](https://github.com/anemoiaa/)
-LinkedIn: [Link](https://www.linkedin.com/in/georgiy-petrov-74669b238/)
+Phone: +000-000-000  
+Email: georgiypetroff@gmail.com  
+GitHub: [@anemoiaa](https://github.com/anemoiaa/)  
+LinkedIn: [Link](https://www.linkedin.com/in/georgiy-petrov-74669b238/)  
 
 **Skills:**
 + HTML5, CSS3,
@@ -16,7 +16,7 @@ LinkedIn: [Link](https://www.linkedin.com/in/georgiy-petrov-74669b238/)
 + Docker
 + Git
 
-**About me**
+**About me**  
 I started learning programming at the end of 2021 by myself.
 After learning basics of Python and JavaScript, I decided to enter the university. This is my second year at Georgian Technical University withmajors in 'Software Engineering'. This summer I took part and successfully finished 'PHP-Bootcamp' and after recieved a job as Junior Drupal Developer.
 I continue to self-study. Now I study Node.js, React.js, Next.js in my free time.
@@ -50,25 +50,27 @@ console.log(flatten(x));
 
 **Experience:**
 
-***Tip Calculatorr App***
-Stack: React
-[Source](https://github.com/Anemoiaa/tip-calculator-app)
-[Live](https://anemoiaa.github.io/tip-calculator-app)
+***Tip Calculatorr App***  
+Stack: React  
+[Source](https://github.com/Anemoiaa/tip-calculator-app)  
+[Live](https://anemoiaa.github.io/tip-calculator-app)  
 
-***Todo App***
-Stack: React, Styled Components
-[Source](https://github.com/Anemoiaa/todo-app/)
-[Live](https://anemoiaa.github.io/todo-app/)
+***Todo App***  
+Stack: React, Styled Components  
+[Source](https://github.com/Anemoiaa/todo-app/)  
+[Live](https://anemoiaa.github.io/todo-app/)  
 
-***GitHub User Search App***
-Stack: React, Axios, Styled Components
-[Source](https://github.com/Anemoiaa/github-user-search-app/)
-[Live](https://anemoiaa.github.io/github-user-search-app/)
+***GitHub User Search App***  
+Stack: React, Axios, Styled Components  
+[Source](https://github.com/Anemoiaa/github-user-search-app/)  
+[Live](https://anemoiaa.github.io/github-user-search-app/)  
 
-***GitHub User Search App***
-Stack: PhP, HTML5, CSS3, JavaScript
-[Source](https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2)
-[Live](https://bitoid-week1-ch2.herokuapp.com/)
+***GitHub User Search App***  
+Stack: PhP, HTML5, CSS3, JavaScript  
+[Source](https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2)  
+[Live](https://bitoid-week1-ch2.herokuapp.com/)  
+
+***  
 
 **Education**
 > 2021-present
