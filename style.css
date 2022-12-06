@@ -47,6 +47,11 @@ body {
     background-color:  rgb(246 248 255);
 }
 
+@media (max-width: 1024px) {
+    .body {
+        font-size: 12px;
+    }
+}
 
 .wrapper {
     height: 100%;
@@ -56,11 +61,18 @@ body {
     padding: 0 24px;
 }
 
+
 .header {
     margin-top: 35px;
     padding: 16px 24px;
     background-color: #fff;
     border-radius: 15px;
+}
+
+@media (max-width: 1024px) {
+    .header {
+        margin-top: 30px;
+    }
 }
 
 .header__menu {
@@ -74,6 +86,17 @@ body {
 
 .menu__item {
     margin-left: 24px;
+}
+
+@media (max-width: 1024px) {
+    .menu__list {
+        flex-direction: column;
+    }
+    .menu__item {
+        margin-left: 0;
+        margin-top: 6px;
+        font-size: 12px;
+    }
 }
 
 .menu__item:hover {
@@ -100,6 +123,13 @@ body {
     border-bottom: 4px solid #4B6A9B;
 }
 
+@media (max-width: 1024px) {
+    .section-title {
+        font-size: 18px;
+        border-width: 2px;
+    }
+}
+
 .name-and-position {
     display: flex;
     flex-direction: row-reverse;
@@ -123,6 +153,24 @@ body {
     max-height: 220px;
     border-radius: 50%;
 }
+
+@media (max-width: 1024px) {
+    .name-and-position__title {
+        margin-left: 12px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .name-and-position__title h2 {
+        font-size: 14px;
+    }
+
+    .name-and-position__image {
+        max-width: 75px;
+        max-height: 75px;
+    }
+}
+
 
 .contacts {
     margin-top: 48px;
@@ -152,6 +200,21 @@ body {
     color: inherit
 }
 
+@media (max-width: 1024px) {
+    .contacts {
+        margin-top: 24px
+    }
+    .contacts__list  {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contacts__item {
+        width: 100%;
+        font-size: 12px;
+    }
+}
+
 .contacts__link:hover {
     text-decoration: underline;
 }
@@ -164,6 +227,15 @@ body {
 
 .about-me__body {
     margin-top: 24px;
+}
+
+@media (max-width: 1024px) {
+    .about-me {
+        margin-top: 24px;
+    }
+    .about-me {
+        font-size: 12px;
+    }
 }
 
 .skills {
@@ -189,6 +261,17 @@ body {
     color: #fff;
 }
 
+@media (max-width: 1024px) {
+    .skills {
+        margin-top: 24px;
+    }
+
+    .skills__item {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+}
+
 .code-example {
     margin-top: 88px;
 }
@@ -199,6 +282,16 @@ body {
     margin-top: 24px;
     padding: 24px 24px;
     background-color: rgb(246 248 255);
+}
+
+@media (max-width: 1024px) {
+    .code-example {
+        margin-top: 56px;
+    }
+
+    .code-example pre {
+        font-size: 10px;
+    }
 }
 
 .exp {
@@ -221,6 +314,22 @@ body {
 
 .exp__item:nth-child(even) {
     place-self: self-end;
+}
+
+@media (max-width: 1024px) {
+    .exp {
+        margin-top: 24px;
+    }
+
+    .exp__list {
+        margin-top: 12px;
+        gap: 48px;
+    }
+
+    .exp__item {
+        max-height: none;
+        padding: 0;
+    }
 }
 
 .item-exp__body {
@@ -272,6 +381,35 @@ body {
     transition: 200ms linear;
 }
 
+@media (max-width: 1024px) {
+    .item-exp__body {
+        flex-direction: column;
+    }
+
+    .item-exp__image {
+        width: 100%;
+        height: auto;
+    }
+
+    .item-exp__title {
+        font-size: 18px;
+    }
+
+    .item-exp__list {
+        margin-top: 8px;
+        gap: 8px
+    }
+
+    .item-exp__item {
+        font-size: 12px;
+    }
+
+    .item-exp__links {
+        font-size: 12px;
+    }
+
+}
+
 .education {
     margin-top: 48px;
 }
@@ -292,6 +430,21 @@ body {
     font-weight: 400;
 }
 
+@media (max-width: 1024px) {
+    .education {
+        margin-top: 24px;
+    }
+
+    .education__list {
+        margin-top: 12px;
+        padding-right: 0px;
+    }
+
+    .education__item {
+        font-size: 12px;
+    }
+}
+
 .lang {
     margin-top: 48px;
 }
@@ -302,6 +455,17 @@ body {
 
 .lang__item {
     font-weight: bold;
+}
+
+@media (max-width: 1024px) {
+    .lang {
+        margin-top: 24px;
+    }
+
+    .lang__list {
+        margin-top: 12px;
+        font-size: 12px;
+    }
 }
 
 .footer {
@@ -341,4 +505,21 @@ body {
 
 .foooter__link {
     color: #4B6A9B;
+}
+
+@media (max-width: 1024px) {
+    .footer {
+        font-size: 12px;
+    }
+
+    .footer__container {
+        width: 100%;
+    }
+    .footer__logo {
+        width: 50px;
+    }
+
+    .footer__time {
+        position: absolute;
+    }
 }
