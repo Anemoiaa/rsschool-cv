@@ -47,23 +47,23 @@ console.log(flatten(x));
 
 ***Tip Calculatorr App***    
 Stack: React  
-Source: https://github.com/Anemoiaa/tip-calculator-app  
-Live: https://anemoiaa.github.io/tip-calculator-app
+[Source](https://github.com/Anemoiaa/tip-calculator-app)  
+[Live](https://anemoiaa.github.io/tip-calculator-app)
 
 ***Todo App***  
 Stack: React, Styled Components  
-Source: https://github.com/Anemoiaa/todo-app/  
-Live: https://anemoiaa.github.io/todo-app/
+[Source](https://github.com/Anemoiaa/todo-app/)  
+[Live](https://anemoiaa.github.io/todo-app/)
 
 ***GitHub User Search App***  
 Stack: React, Axios, Styled Components  
-Source: https://github.com/Anemoiaa/github-user-search-app/  
-Live: https://anemoiaa.github.io/github-user-search-app/
+[Source](https://github.com/Anemoiaa/github-user-search-app/)  
+[Live](https://anemoiaa.github.io/github-user-search-app/)
 
 ***GitHub User Search App***  
 Stack: PhP, HTML5, CSS3, JavaScript  
-Source: https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2   
-Live: https://bitoid-week1-ch2.herokuapp.com/  
+[Source](https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2)  
+[Live](https://bitoid-week1-ch2.herokuapp.com/)  
 
 **Education**  
 > 2021-present
