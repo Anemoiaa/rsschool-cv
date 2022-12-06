@@ -291,3 +291,15 @@ body {
 .item-education__period {
     font-weight: 400;
 }
+
+.lang {
+    margin-top: 48px;
+}
+
+.lang__list {
+    margin-top: 24px;
+}
+
+.lang__item {
+    font-weight: bold;
+}
