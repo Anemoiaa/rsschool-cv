@@ -61,7 +61,7 @@ Stack: React, Styled Components
 [Live](https://anemoiaa.github.io/todo-app/)  
 
 ***GitHub User Search App***  
-Stack: React, Axios, Styled Components  
+Stack: React, Axios, TailwindCSS   
 [Source](https://github.com/Anemoiaa/github-user-search-app/)  
 [Live](https://anemoiaa.github.io/github-user-search-app/)  
 
