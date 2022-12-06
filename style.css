@@ -303,3 +303,42 @@ body {
 .lang__item {
     font-weight: bold;
 }
+
+.footer {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    margin-top: 35px;
+    background-color: #fff;
+}
+
+.footer__container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 976px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.footer__logo {
+    width: 100px;
+}
+
+.footer__time {
+    place-self: flex-end;
+    padding-bottom: 12px;
+}
+
+.footer__author {
+    display: flex;
+    align-items: center;
+    gap: 20px
+}
+
+.foooter__link {
+    color: #4B6A9B;
+}
