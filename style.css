@@ -124,8 +124,9 @@ body {
 }
 
 .contacts__list {
-    width: fit-content;
-    padding: 24px 96px 24px 24px;
+    display: grid;
+    grid-template: 1fr 1fr / 1fr 1fr;
+    padding: 24px 24px 24px 24px;
     border-radius: 15px;
     background-color: rgb(246 248 255);
 }
@@ -139,6 +140,10 @@ body {
 }
 
 .contacts__link {
+    max-width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     color: inherit
 }
 
