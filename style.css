@@ -416,13 +416,11 @@ body {
 
 .education__list {
     margin-top: 24px;
-    padding-right: 150px;
     display: flex;
     flex-direction: column;
 }
 
 .education__item {
-    border-bottom: 1px solid rgb(43 52 66);
     font-weight: bold;
 }
 
@@ -437,7 +435,6 @@ body {
 
     .education__list {
         margin-top: 12px;
-        padding-right: 0px;
     }
 
     .education__item {
