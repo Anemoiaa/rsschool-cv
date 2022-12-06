@@ -130,7 +130,7 @@ body {
     background-color: rgb(246 248 255);
 }
 
-.contacts-list__item {
+.contacts__item {
     margin-top: 8px;
     display: flex;
     align-items: center;
@@ -138,11 +138,11 @@ body {
     font-size: 16px;
 }
 
-.contacts-list__link {
+.contacts__link {
     color: inherit
 }
 
-.contacts-list__link:hover {
+.contacts__link:hover {
     text-decoration: underline;
 }
 
