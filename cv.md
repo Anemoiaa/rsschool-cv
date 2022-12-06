@@ -65,6 +65,11 @@ console.log(flatten(x));
 > Source: https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2   
 > Live: https://bitoid-week1-ch2.herokuapp.com/  
 
+**Education**  
+> 2021-present  
+> **Georgian Technical University**  
+> B.Sc. “Software Engineering”
+
 **Languages:**   
 + English - B2   
 + Russian - Native  
