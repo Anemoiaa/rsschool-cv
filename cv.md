@@ -45,30 +45,31 @@ console.log(flatten(x));
 
 **Experience:**
 
-> ***Tip Calculatorr App***  
-> Stack: React  
-> Source: https://github.com/Anemoiaa/tip-calculator-app  
-> Live: https://anemoiaa.github.io/tip-calculator-app
+***Tip Calculatorr App***    
+Stack: React  
+Source: https://github.com/Anemoiaa/tip-calculator-app  
+Live: https://anemoiaa.github.io/tip-calculator-app
 
-> ***Todo App***  
-> Stack: React, Styled Components  
-> Source: https://github.com/Anemoiaa/todo-app/  
-> Live: https://anemoiaa.github.io/todo-app/
+***Todo App***  
+Stack: React, Styled Components  
+Source: https://github.com/Anemoiaa/todo-app/  
+Live: https://anemoiaa.github.io/todo-app/
 
-> ***GitHub User Search App***  
-> Stack: React, Axios, Styled Components  
-> Source: https://github.com/Anemoiaa/github-user-search-app/  
-> Live: https://anemoiaa.github.io/github-user-search-app/
+***GitHub User Search App***  
+Stack: React, Axios, Styled Components  
+Source: https://github.com/Anemoiaa/github-user-search-app/  
+Live: https://anemoiaa.github.io/github-user-search-app/
 
-> ***GitHub User Search App***  
-> Stack: PhP, HTML5, CSS3, JavaScript  
-> Source: https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2   
-> Live: https://bitoid-week1-ch2.herokuapp.com/  
+***GitHub User Search App***  
+Stack: PhP, HTML5, CSS3, JavaScript  
+Source: https://github.com/Anemoiaa/php-bootcamp-week-1/tree/master/Giorgi_Petrovi/challenge2   
+Live: https://bitoid-week1-ch2.herokuapp.com/  
 
 **Education**  
-> 2021-present  
-> **Georgian Technical University**  
-> B.Sc. “Software Engineering”
+> 2021-present
+
+**Georgian Technical University**  
+B.Sc. “Software Engineering”
 
 **Languages:**   
 + English - B2   
