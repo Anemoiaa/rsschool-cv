@@ -164,3 +164,30 @@ body {
 .about-me__body {
     margin-top: 24px;
 }
+
+.skills {
+    margin-top: 48px;
+}
+
+.skills__title {
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 4px solid #4B6A9B;
+}
+
+.skills__list {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
+
+.skills__item {
+    padding: 8px 16px;
+    background-color: #4B6A9B;
+    border-radius: 5px;
+    color: #fff;
+}
