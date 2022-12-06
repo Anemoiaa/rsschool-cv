@@ -51,7 +51,7 @@ body {
 .wrapper {
     height: 100%;
     width: 100%;
-    max-width: 900px;
+    max-width: 976px;
     margin: 0 auto;
     padding: 0 24px;
 }
@@ -83,7 +83,7 @@ body {
 
 .menu__link {
     font-weight: bold;
-    color: rgb(75 106 155);
+    color: #4B6A9B;
 }
 
 
@@ -92,4 +92,55 @@ body {
     padding: 16px 24px;
     background-color: #fff;
     border-radius: 15px;
+}
+
+
+.name-and-position {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.name-and-position__title {
+    margin-left: 48px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.name-and-position__title h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.name-and-position__image {
+    max-width: 220px;
+    max-height: 220px;
+    border-radius: 50%;
+}
+
+.contacts {
+    margin-top: 48px;
+}
+
+.contacts__list {
+    width: fit-content;
+    padding: 24px 96px 24px 24px;
+    border-radius: 15px;
+    background-color: rgb(246 248 255);
+}
+
+.contacts-list__item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 16px;
+}
+
+.contacts-list__link {
+    color: inherit
+}
+
+.contacts-list__link:hover {
+    text-decoration: underline;
 }
